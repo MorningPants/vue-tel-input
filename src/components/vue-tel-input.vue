@@ -652,6 +652,7 @@
   defineExpose({
     focus,
     blur,
+    choose
   })
 </script>
 
